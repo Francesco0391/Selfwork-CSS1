@@ -1,5 +1,11 @@
 
 /* Applica il font 'Roboto' al resto del testo */
+h1,h2,h3,h4{
+font-family:'lora', sans-serif ;
+
+}
+
+
 *{
     font-family: 'Roboto', sans-serif;
     color: red;
